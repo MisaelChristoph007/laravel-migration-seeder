@@ -22,7 +22,6 @@ class TravelTableSeeder extends Seeder
                $new_travel->adults = $faker->numberBetween(2, 10);
                $new_travel->price = $faker->numberBetween(200, 3000);
                $new_travel->day = $faker->numberBetween(2, 31);
-
               $new_travel->save();
         }
     }
