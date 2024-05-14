@@ -2,7 +2,7 @@
 
 
 @section('content')
-    <h1>Welcome to MY APP</h1>
+    <h1>Welcome to Travello</h1>
 
     <section>
         <h2>Our Travels</h2>
